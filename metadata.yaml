@@ -1,0 +1,29 @@
+_repo: Dick-Prescott-s-Second-Year-at-West-Point--13-Or-Finding-the-Glory-of-the-Soldier-s-Life_12819
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hancock, H. Irving (Harrie Irving)
+    alias: Hancock, Harrie Irving
+    birthdate: 1868
+    deathdate: 1922
+    gutenberg_agent_id: '2034'
+    url: http://www.gutenberg.org/2009/agents/2034
+    wikipedia: http://en.wikipedia.org/wiki/H._Irving_Hancock
+description: ''
+gutenberg_issued: '2004-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12819'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'College stories'
+- !lcsh 'Military cadets -- United States -- Juvenile fiction'
+- !lcsh 'United States Military Academy -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: "Dick Prescott's Second Year at West Point\r\nOr, Finding the Glory of the\
+  \ Soldier's Life"
+url: http://www.gutenberg.org/ebooks/12819
